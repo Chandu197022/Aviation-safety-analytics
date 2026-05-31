@@ -235,5 +235,4 @@ The project includes:
 Electronics & Communication Engineering Graduate
 Aspiring Data Analyst | Data Analytics | Business Intelligence | Python | Power BI
 
-LinkedIn: Add Your LinkedIn URL
-GitHub: Add Your GitHub URL
+LinkedIn: https://www.linkedin.com/in/rongali-chandra-kiran/
