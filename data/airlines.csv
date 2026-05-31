@@ -1,0 +1,114 @@
+airline,country,region,alliance,founded,safety_tier,safety_tier_label,fleet_size_2024,avg_fleet_age_years,destinations_count,annual_passengers_mn,iata_safety_audit_passed,eu_blacklist_history,incidents_1970_2024,fatal_accidents_1970_2024,years_operating
+American Airlines,USA,NorthAmerica,Oneworld,1926,1,Tier 1 (Excellent),11,10.4,102,3.7,1,0,12,2,98
+United Airlines,USA,NorthAmerica,Star Alliance,1926,1,Tier 1 (Excellent),282,7.5,77,155.1,1,0,10,0,98
+Delta Air Lines,USA,NorthAmerica,SkyTeam,1929,1,Tier 1 (Excellent),57,11.3,19,10.0,1,0,9,4,95
+Southwest Airlines,USA,NorthAmerica,None,1967,1,Tier 1 (Excellent),21,2.0,104,30.2,1,0,3,2,57
+Air Canada,Canada,NorthAmerica,Star Alliance,1937,1,Tier 1 (Excellent),39,11.2,92,8.4,1,0,6,2,87
+British Airways,UK,Europe,Oneworld,1974,1,Tier 1 (Excellent),27,2.0,203,135.8,1,0,10,1,50
+Lufthansa,Germany,Europe,Star Alliance,1953,1,Tier 1 (Excellent),93,9.8,117,2.2,1,0,14,2,71
+Air France,France,Europe,SkyTeam,1933,1,Tier 1 (Excellent),5,16.9,49,22.8,1,0,20,5,91
+KLM,Netherlands,Europe,SkyTeam,1919,1,Tier 1 (Excellent),302,12.7,142,2.3,1,0,7,3,105
+Ryanair,Ireland,Europe,None,1984,1,Tier 1 (Excellent),19,13.8,164,4.8,1,0,7,4,40
+easyJet,UK,Europe,None,1995,1,Tier 1 (Excellent),5,10.5,136,13.7,1,0,34,1,29
+Wizz Air,Hungary,Europe,None,2003,1,Tier 1 (Excellent),38,15.9,169,23.5,1,0,17,2,21
+Turkish Airlines,Turkey,Europe,Star Alliance,1933,1,Tier 1 (Excellent),102,13.1,139,19.4,1,0,9,1,91
+Swiss International,Switzerland,Europe,Star Alliance,2002,1,Tier 1 (Excellent),31,13.0,254,4.4,1,0,9,2,22
+Scandinavian Airlines,Sweden,Europe,Star Alliance,1946,1,Tier 1 (Excellent),8,14.6,44,52.9,1,0,7,1,78
+Iberia,Spain,Europe,Oneworld,1927,1,Tier 1 (Excellent),77,10.7,446,9.7,1,0,7,2,97
+Finnair,Finland,Europe,Oneworld,1923,1,Tier 1 (Excellent),21,7.9,34,2.3,1,0,5,1,101
+TAP Air Portugal,Portugal,Europe,Star Alliance,1945,2,Tier 2 (Good),61,14.9,44,10.2,1,0,13,3,79
+Alitalia,Italy,Europe,SkyTeam,1946,2,Tier 2 (Good),43,9.7,157,5.6,1,0,14,9,78
+LOT Polish Airlines,Poland,Europe,Star Alliance,1929,2,Tier 2 (Good),34,13.4,26,3.6,1,0,40,6,95
+Emirates,UAE,MiddleEast,None,1985,1,Tier 1 (Excellent),27,7.9,36,51.4,1,0,22,1,39
+Qatar Airways,Qatar,MiddleEast,Oneworld,1993,1,Tier 1 (Excellent),34,9.4,33,7.0,1,0,9,1,31
+Etihad Airways,UAE,MiddleEast,None,2003,1,Tier 1 (Excellent),39,12.8,692,10.5,1,0,9,1,21
+Flydubai,UAE,MiddleEast,None,2008,2,Tier 2 (Good),17,8.3,293,17.7,1,0,21,3,16
+Air Arabia,UAE,MiddleEast,None,2003,2,Tier 2 (Good),36,5.6,391,13.4,1,0,26,1,21
+Singapore Airlines,Singapore,AsiaPacific,Star Alliance,1947,1,Tier 1 (Excellent),18,13.1,85,9.7,1,0,24,1,77
+Cathay Pacific,HongKong,AsiaPacific,Oneworld,1946,1,Tier 1 (Excellent),10,18.6,171,35.9,1,0,8,5,78
+Qantas,Australia,AsiaPacific,Oneworld,1920,1,Tier 1 (Excellent),67,7.4,19,5.0,1,0,5,1,104
+Japan Airlines,Japan,AsiaPacific,Oneworld,1951,1,Tier 1 (Excellent),51,6.5,49,58.3,1,0,17,0,73
+ANA,Japan,AsiaPacific,Star Alliance,1952,1,Tier 1 (Excellent),149,3.3,27,1.3,1,0,13,3,72
+Korean Air,SouthKorea,AsiaPacific,SkyTeam,1969,2,Tier 2 (Good),36,12.7,56,18.5,1,0,14,3,55
+Asiana Airlines,SouthKorea,AsiaPacific,Star Alliance,1988,2,Tier 2 (Good),34,16.6,47,98.5,1,0,40,3,36
+China Eastern,China,AsiaPacific,SkyTeam,1988,2,Tier 2 (Good),6,12.6,235,1.5,1,0,14,2,36
+China Southern,China,AsiaPacific,SkyTeam,1988,2,Tier 2 (Good),11,13.1,55,93.1,1,0,31,2,36
+Air China,China,AsiaPacific,Star Alliance,1988,2,Tier 2 (Good),27,2.0,252,21.5,1,0,11,3,36
+IndiGo,India,SouthAsia,None,2006,2,Tier 2 (Good),17,7.8,70,27.9,1,0,24,3,18
+Air India,India,SouthAsia,Star Alliance,1932,2,Tier 2 (Good),63,6.7,61,3.5,1,0,14,5,92
+SpiceJet,India,SouthAsia,None,2004,2,Tier 2 (Good),90,7.1,50,32.3,1,0,20,4,20
+Thai Airways,Thailand,SoutheastAsia,Star Alliance,1960,2,Tier 2 (Good),71,6.8,102,7.9,1,0,25,5,64
+Garuda Indonesia,Indonesia,SoutheastAsia,SkyTeam,1949,2,Tier 2 (Good),39,14.2,108,9.2,1,0,15,4,75
+Philippine Airlines,Philippines,SoutheastAsia,Oneworld,1941,2,Tier 2 (Good),45,3.4,54,8.2,1,0,22,4,83
+Vietnam Airlines,Vietnam,SoutheastAsia,SkyTeam,1956,2,Tier 2 (Good),100,14.4,62,20.2,1,0,7,2,68
+AirAsia,Malaysia,SoutheastAsia,None,1993,2,Tier 2 (Good),136,12.0,22,26.5,1,0,106,4,31
+Lion Air,Indonesia,SoutheastAsia,None,1999,3,Tier 3 (Moderate),13,9.4,52,124.3,0,0,44,12,25
+Batik Air,Indonesia,SoutheastAsia,None,2013,2,Tier 2 (Good),46,17.1,32,7.5,1,0,8,2,11
+Ethiopian Airlines,Ethiopia,Africa,Star Alliance,1945,2,Tier 2 (Good),411,13.7,390,64.2,1,0,46,4,79
+Kenya Airways,Kenya,Africa,SkyTeam,1977,2,Tier 2 (Good),180,11.3,215,9.8,1,0,28,2,47
+South African Airways,SouthAfrica,Africa,Star Alliance,1934,2,Tier 2 (Good),64,10.2,165,12.9,1,0,14,4,90
+EgyptAir,Egypt,Africa,Star Alliance,1932,2,Tier 2 (Good),199,9.2,72,8.7,1,0,17,2,92
+Royal Air Maroc,Morocco,Africa,Oneworld,1957,2,Tier 2 (Good),75,16.8,127,52.3,1,0,21,2,67
+TAAG Angola Airlines,Angola,Africa,None,1938,3,Tier 3 (Moderate),39,3.8,95,15.3,0,0,59,9,86
+Air Algérie,Algeria,Africa,None,1953,3,Tier 3 (Moderate),36,10.8,162,48.3,0,0,49,3,71
+Cameroon Airlines,Cameroon,Africa,None,1971,3,Tier 3 (Moderate),15,10.8,63,6.8,0,0,30,6,53
+ASKY Airlines,Togo,Africa,None,2010,2,Tier 2 (Good),17,11.2,278,29.8,1,0,30,3,14
+Aeroflot,Russia,CIS,SkyTeam,1923,2,Tier 2 (Good),88,13.1,551,7.0,1,0,26,6,101
+S7 Airlines,Russia,CIS,Oneworld,1992,2,Tier 2 (Good),12,16.2,23,3.8,1,0,19,3,32
+Ural Airlines,Russia,CIS,None,1943,3,Tier 3 (Moderate),612,3.0,443,27.3,0,0,54,13,81
+Air Astana,Kazakhstan,CIS,None,2001,2,Tier 2 (Good),10,12.9,162,23.2,1,0,68,3,23
+Azal,Azerbaijan,CIS,None,1992,3,Tier 3 (Moderate),50,11.9,327,5.1,0,0,17,2,32
+LATAM Airlines,Chile,LatinAmerica,Oneworld,1929,2,Tier 2 (Good),60,9.4,310,13.7,1,0,22,5,95
+Avianca,Colombia,LatinAmerica,Star Alliance,1919,2,Tier 2 (Good),50,8.8,123,106.1,1,0,3,9,105
+GOL Airlines,Brazil,LatinAmerica,None,2001,2,Tier 2 (Good),60,9.4,31,8.3,1,0,16,1,23
+Aeromexico,Mexico,LatinAmerica,SkyTeam,1934,2,Tier 2 (Good),49,10.1,301,5.8,1,0,31,4,90
+Cubana,Cuba,LatinAmerica,None,1929,3,Tier 3 (Moderate),26,10.6,146,5.9,0,0,28,5,95
+Conviasa,Venezuela,LatinAmerica,None,2004,3,Tier 3 (Moderate),213,15.6,92,8.0,0,0,28,8,20
+TAME,Ecuador,LatinAmerica,None,1962,3,Tier 3 (Moderate),138,11.2,33,27.4,0,0,108,5,62
+LAN Peru,Peru,LatinAmerica,Oneworld,1999,2,Tier 2 (Good),44,3.8,33,14.2,1,0,35,4,25
+Frontier Airlines,USA,NorthAmerica,None,1994,1,Tier 1 (Excellent),116,8.7,38,13.2,1,0,4,3,30
+Spirit Airlines,USA,NorthAmerica,None,1983,1,Tier 1 (Excellent),14,6.4,131,7.2,1,0,8,1,41
+Allegiant Air,USA,NorthAmerica,None,1997,1,Tier 1 (Excellent),152,9.0,52,37.2,1,0,10,7,27
+WestJet,Canada,NorthAmerica,None,1996,1,Tier 1 (Excellent),75,15.7,137,103.1,1,0,11,1,28
+Vueling,Spain,Europe,Oneworld,2004,1,Tier 1 (Excellent),583,7.4,35,15.2,1,0,14,3,20
+Transavia,Netherlands,Europe,None,1965,1,Tier 1 (Excellent),87,9.8,100,5.6,1,0,19,1,59
+Eurowings,Germany,Europe,None,1993,1,Tier 1 (Excellent),852,4.6,50,17.9,1,0,7,2,31
+Pegasus Airlines,Turkey,Europe,None,1989,2,Tier 2 (Good),89,10.5,417,22.9,1,0,21,2,35
+Sunwing Airlines,Canada,NorthAmerica,None,2005,1,Tier 1 (Excellent),12,11.0,127,3.8,1,0,9,1,19
+Cebu Pacific,Philippines,SoutheastAsia,None,1988,2,Tier 2 (Good),239,12.2,56,46.3,1,0,7,3,36
+Vietjet,Vietnam,SoutheastAsia,None,2011,2,Tier 2 (Good),44,8.4,152,4.6,1,0,11,2,13
+Citilink,Indonesia,SoutheastAsia,None,2001,2,Tier 2 (Good),272,12.5,29,18.4,1,0,63,11,23
+TUI Airways,UK,Europe,None,1962,1,Tier 1 (Excellent),340,8.9,76,6.3,1,0,21,1,62
+Condor,Germany,Europe,None,1955,2,Tier 2 (Good),6,8.9,135,25.2,1,0,126,4,69
+Thomas Cook Airlines,UK,Europe,None,1965,2,Tier 2 (Good),84,5.7,82,3.2,1,0,86,3,59
+Pan American World Airways,USA,NorthAmerica,None,1927,2,Tier 2 (Good),82,5.2,68,12.3,1,0,30,3,97
+TWA,USA,NorthAmerica,None,1925,2,Tier 2 (Good),91,17.5,113,6.5,1,0,31,8,99
+Eastern Air Lines,USA,NorthAmerica,None,1926,2,Tier 2 (Good),49,10.7,48,0.8,1,0,14,5,98
+Swissair,Switzerland,Europe,None,1931,1,Tier 1 (Excellent),71,6.8,235,10.4,1,0,10,4,93
+Sabena,Belgium,Europe,None,1923,2,Tier 2 (Good),64,16.7,65,2.1,1,0,24,4,101
+Olympic Airways,Greece,Europe,None,1957,2,Tier 2 (Good),42,7.4,102,12.5,1,0,28,2,67
+Mexicana de Aviación,Mexico,LatinAmerica,None,1921,2,Tier 2 (Good),62,11.5,52,16.3,1,0,11,2,103
+Varig,Brazil,LatinAmerica,None,1927,2,Tier 2 (Good),59,15.6,49,32.0,1,0,15,1,97
+Ansett Australia,Australia,AsiaPacific,None,1936,1,Tier 1 (Excellent),40,7.3,61,13.3,1,0,10,4,88
+Malév,Hungary,Europe,None,1946,2,Tier 2 (Good),271,8.3,66,19.7,1,0,6,7,78
+Spanair,Spain,Europe,None,1988,2,Tier 2 (Good),9,12.5,75,5.7,1,0,35,7,36
+Air Berlin,Germany,Europe,None,1978,1,Tier 1 (Excellent),42,9.8,316,22.7,1,0,15,1,46
+Monarch Airlines,UK,Europe,None,1967,1,Tier 1 (Excellent),25,9.9,73,23.1,1,0,13,2,57
+Aviaco,Spain,Europe,None,1948,2,Tier 2 (Good),185,11.6,69,29.1,1,0,24,5,76
+Tarom,Romania,Europe,SkyTeam,1954,3,Tier 3 (Moderate),18,14.8,40,66.7,0,0,56,3,70
+Croatia Airlines,Croatia,Europe,Star Alliance,1990,2,Tier 2 (Good),59,8.9,56,31.5,1,0,23,1,34
+Air Transat,Canada,NorthAmerica,None,1986,1,Tier 1 (Excellent),39,8.1,19,9.0,1,0,16,3,38
+Sky Express,Greece,Europe,None,2005,2,Tier 2 (Good),17,17.6,69,23.9,1,0,15,1,19
+Flybe,UK,Europe,None,1979,1,Tier 1 (Excellent),158,9.6,78,9.4,1,0,5,5,45
+Adria Airways,Slovenia,Europe,Star Alliance,1961,2,Tier 2 (Good),32,6.9,61,5.4,1,0,17,2,63
+Aer Lingus,Ireland,Europe,Oneworld,1936,1,Tier 1 (Excellent),120,6.9,55,12.1,1,0,13,6,88
+Rossiya Airlines,Russia,CIS,None,1934,3,Tier 3 (Moderate),43,11.6,50,61.2,0,0,27,3,90
+Ural Airlines,Russia,CIS,None,1943,3,Tier 3 (Moderate),14,10.7,18,19.6,0,0,21,5,81
+Air Koryo,NorthKorea,AsiaPacific,None,1950,4,Tier 4 (Poor),44,10.2,26,3.2,0,1,92,5,74
+MIAT Mongolian,Mongolia,AsiaPacific,None,1956,3,Tier 3 (Moderate),108,9.5,189,32.2,0,0,34,2,68
+Pakistan International,Pakistan,SouthAsia,None,1955,3,Tier 3 (Moderate),31,19.7,60,14.6,0,0,51,4,69
+SriLankan Airlines,SriLanka,SouthAsia,Oneworld,1979,2,Tier 2 (Good),9,7.2,330,6.9,1,0,34,2,45
+Biman Bangladesh,Bangladesh,SouthAsia,None,1972,3,Tier 3 (Moderate),27,12.4,162,33.4,0,0,60,4,52
+Nepal Airlines,Nepal,SouthAsia,None,1958,4,Tier 4 (Poor),46,8.9,82,76.1,0,1,41,10,66
+Yeti Airlines,Nepal,SouthAsia,None,1998,3,Tier 3 (Moderate),78,8.7,92,0.7,0,0,19,5,26
+Saurya Airlines,Nepal,SouthAsia,None,2015,3,Tier 3 (Moderate),8,10.0,73,46.7,0,0,16,5,9
