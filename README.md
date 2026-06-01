@@ -132,7 +132,6 @@ AviationSafetyAnalytics/
 ├── src/
 ├── visuals/
 ├── dashboard/
-├── reports/
 │
 ├── README.md
 └── requirements.txt
